@@ -6,6 +6,8 @@ ubuntu/squid:latest
 postgres:15-alpine
 nginx:latest
 redis:6-alpine
+langgenius/qdrant:v1.7.3
+pgvector/pgvector:pg16
 
 --platform=linux/amd64 redis:7.0.15-alpine3.20
 --platform=linux/arm/v7 redis:7.0.15-alpine3.20

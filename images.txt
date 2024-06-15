@@ -1,3 +1,4 @@
+ghcr.io/open-webui/open-webui:main
 langgenius/dify-api:0.6.10
 langgenius/dify-web:0.6.10
 semitechnologies/weaviate:1.19.0
